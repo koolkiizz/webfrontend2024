@@ -1,0 +1,1 @@
+import{b as a,u as e,r,d as u,j as t}from"./index-DR-L-TCk.js";const c=()=>{const{logout:s}=a(),o=e();return r.useEffect(()=>{s(),o(u.HOMEPAGE)}),t.jsx(t.Fragment,{children:"...logout"})};export{c as default};
