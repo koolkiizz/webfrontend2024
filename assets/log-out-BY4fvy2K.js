@@ -1,0 +1,1 @@
+import{a as o,u as e,r,b as u,j as t}from"./index-D9z5yxni.js";const c=()=>{const{logout:s}=o(),a=e();return r.useEffect(()=>{s(),a(u.HOMEPAGE)}),t.jsx(t.Fragment,{children:"...logout"})};export{c as default};
